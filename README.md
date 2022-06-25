@@ -2,7 +2,7 @@ Olá, eu sou o Davidson  👋
 
 
 - 🌱 Estou aprendendo... Progamação
-- 🤔 Estou procurando ajuda... Com o desenvolvedor iniciante
+- 🤔 Estou procurando ajuda... Como desenvolvedor iniciante
 - ⚡ Curiosidade: dois amigos me ajudando
 
 
