@@ -3,14 +3,14 @@ Olá, eu sou o Davidson  👋
 
 - 🌱 Estou aprendendo... Progamação
 - 🤔 Estou procurando ajuda... Como desenvolvedor iniciante
-- ⚡ Curiosidade: dois amigos me ajudando
+- ⚡ Curiosidade: dois dos meus melhores amigos estão me ajudando (Negão & Cuebra)
 
 
 
 <div align="center">
   <a href="https://github.com/davidsonsilvafer">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=davidsonsilvafer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonsilvafer&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=davidsonsilvafer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonsilvafer&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <div style="display: inline_block"><br>
