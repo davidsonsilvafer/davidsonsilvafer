@@ -3,7 +3,7 @@ Olá, eu sou o Davidson  👋
 
 - 🌱 Estou aprendendo... Progamação
 - 🤔 Estou procurando ajuda... Como desenvolvedor iniciante
-- ⚡ Curiosidade: dois dos meus melhores amigos estão me ajudando (Negão & Cuebra)
+- ⚡ Curiosidade: dois dos meus melhores amigos estão me ajudando (Junior & Kuêbra)
 
 
 
